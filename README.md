@@ -1,5 +1,3 @@
-### grpc-apache-beam
-
 ### Simple GRPC Client Server
 ### Prerequisites
 -------------
